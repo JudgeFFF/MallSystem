@@ -1,6 +1,6 @@
 # mallsystem
 
-开发框架：Vue2+Koa2+Node<br>
+开发框架：Vue2+Koa2<br>
 开发环境：Mongoose+MongoDB+Node<br>
 开发语言：JavaScript<br>
 其它：Vant

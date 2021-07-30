@@ -1,8 +1,8 @@
 # mallsystem
 
-开发框架：Vue2+Koa2+Node
-开发环境：Mongoose+MongoDB+Node
-开发语言：JavaScript
+开发框架：Vue2+Koa2+Node<br>
+开发环境：Mongoose+MongoDB+Node<br>
+开发语言：JavaScript<br>
 其它：Vant
 
 # 项目截图

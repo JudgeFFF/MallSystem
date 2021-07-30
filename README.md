@@ -1,6 +1,12 @@
 # mallsystem
 
-> A Vue.js project
+开发框架：Vue2+Koa2+Node
+开发环境：Mongoose+MongoDB+Node
+开发语言：JavaScript
+其它：Vant
+
+# 项目截图
+![vue_koa2_ad](https://user-images.githubusercontent.com/66860665/127612007-2ad6daa0-6500-403b-8721-d4f75e7eddb8.jpg)
 
 ## Build Setup
 
